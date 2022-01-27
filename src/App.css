@@ -1,0 +1,11 @@
+body {
+  background-color:white;
+}
+
+.row {
+  margin-top: 30px;
+}
+
+.card{
+  padding: 10px;
+}
